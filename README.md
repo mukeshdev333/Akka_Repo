@@ -16,6 +16,8 @@ This repository contains a .NET application developed using Web API Core, featur
 
 ### Prerequisites
 - Install [.NET SDK](https://dotnet.microsoft.com/download).
+- Install package AKKA
+- Install package Akka.Remote
 
 ### Installation
 1. Clone this repository:
