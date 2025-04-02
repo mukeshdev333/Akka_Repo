@@ -1,4 +1,4 @@
-# .NET Application with Web API Core
+# .NET Web API Core using KAFKA.Net
 
 This repository contains a .NET application developed using Web API Core, featuring two services: **Order Service** and **Payment Service**. These services communicate with each other using **Akka.NET** for both asynchronous and synchronous operations, providing messages in response without utilizing a database.
 
